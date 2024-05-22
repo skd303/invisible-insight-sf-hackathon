@@ -1,0 +1,13 @@
+python-dotenv
+pandas 
+pyarrow
+python-dotenv
+requests
+snowflake-connector-python
+tiktoken
+boto3
+bs4
+tiktoken
+snowflake-connector-python[pandas]
+together
+streamlit
