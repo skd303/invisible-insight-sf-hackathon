@@ -146,6 +146,11 @@ for link in df_links.index:
 st.title('Insight Engine')
 st.caption('Please enter a news article below. Then select a main entity.')
 
+with st.sidebar:
+    
+    ia_llm = st.selectbox('Investment Analyst LLM',['meta-llama/Llama-3-70b-chat-hf', 'meta-llama/Llama-3-8b-chat-hf'])
+    ds_llm = st.selectbox('Data Scientist  LLM', ['Snowflake/snowflake-arctic-instruct'])
+
 with st.container():
     news_article_input = st.text_area('News Article',height=300)
 
@@ -231,15 +236,15 @@ with st.container():
     """
 
     if news_article_input and src_node:
-        res = get_completion(user_prompt, 'meta-llama/Llama-3-8b-chat-hf')
+        res = get_completion(user_prompt, ia_llm)
         st.markdown('## Investment Analyst')
         st.write(res)
 
         st.divider()
         prompt2 = f'From the perspective of a data scientist, use the market map represented as an undirected graph (nodes and edges), to assess the strengths and weaknesses fo the following investment hypothesis: ```{res}``` Market Map Edges: ```{competitors}```'
         
-        res2 = get_completion(prompt2,'Snowflake/snowflake-arctic-instruct')
-        st.markdown('## Data Scientists ')
+        res2 = get_completion(prompt2, ds_llm)
+        st.markdown('## Data Scientist')
         st.write(res2)
 
 

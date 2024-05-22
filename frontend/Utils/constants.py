@@ -1,0 +1,20 @@
+default_article = """Macy’s, the largest department store chain in the United States, reported a decline in sales Tuesday for the first quarter of the year, a sign that American shoppers were continuing to pull back on discretionary purchases. But the retailer said there were signs that its turnaround plan was gaining “traction.”
+Macy’s has added staff members to assist customers and has remodeled some locations, part of an effort to improve the shopping experience. 
+The Numbers: Macy’s lags while Bloomingdale’s and Bluemercury grow.
+Macy’s said its comparable-store sales in the United States fell 1.2 percent from the same quarter a year earlier. The retailer has not reported a sales increase since the first quarter of 2022. It reported a first-quarter profit of $62 million, less than half of what it made in the same quarter last year.
+Sales at the namesake Macy’s brand were the weakest of all of the company’s brands, falling 1.6 percent. Sales at Bloomingdale’s rose 0.8 percent, and Bluemercury’s sales rose 4.3 percent.
+Macy’s slightly raised the low end of its sales forecast for the year and bumped up its profit forecast.
+What They’re Saying: Shoppers are feeling squeezed.
+Tony Spring, Macy’s chief executive, and Adrian Mitchell, the chief financial officer, said several times on a call with analysts that they expected consumers to remain under pressure for the rest of the year.
+“Inflationary pressures persist, and they’re feeling that pinch,” Mr. Spring said.
+David Swartz, a senior equity analyst at Morningstar, saw worrying signs in the details of the earnings, namely that credit card revenues were lower in the first quarter compared with last year, which the company attributed to higher delinquency rates.
+“It suggests their customers are buying things with Macy’s credit cards that they can’t actually afford because they’re not paying their credit card bills on time or maybe not even at all,” Mr. Swartz said. “That doesn’t give you a lot of confidence that their customers are in very good financial shape at the moment.”
+According to the Census Bureau, retail sales not adjusted for inflation rose by just over 3 percent in the first four months of the year, compared with the previous year. But sales at department stores fell 2.4 percent over that period.
+What Happens Next: Looking for signs that an overhaul is paying off.
+Macy’s plans to close 150 stores over the next three years. After the downsizing, Macy’s expects to have 350 stores, just over half the number it had before the pandemic.
+Macy’s has started to make a distinction between the stores it plans to keep and the ones it is closing. In the first quarter, it said that 50 stores that represent the company’s future, based on geography, staffing and other factors, saw a comparable sales increase of 3.3 percent.
+In an interview, Mr. Spring said the results showed the potential for the remaining fleet after the store closings.
+Mr. Spring said that by highlighting 50 stores — compared with, say, five or 200 — the retailer would be able to gauge how the turnaround plan was going. If the company sees progress in those locations, which span the country, Macy’s will then expand the actions “as aggressively as we can,” he said.
+Within those stores, the company is using data on foot traffic and sales to help shift staffing patterns. That has put more workers in the areas around fitting rooms, shoes, jewelry and other big-ticket items. Macy’s has also done more in-store events and improved how items are displayed.
+“I don’t discount the fact that this is the early innings,” Mr. Spring said. “We have plenty of work to do.”
+Mr. Spring has also faced pressure from an activist investor group that believes the company is not doing enough to turn its business around. In December, the group offered to acquire Macy’s and take it private, which the retailer rebuffed. In March, the group raised its bid and valued the company at $6.6 billion, a premium to the company’s current market value."""
