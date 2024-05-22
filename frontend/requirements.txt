@@ -11,3 +11,5 @@ tiktoken
 snowflake-connector-python[pandas]
 together
 streamlit
+networkx
+plotly

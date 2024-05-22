@@ -1,9 +1,6 @@
 from dataclasses import dataclass
-import streamlit as st
 import os
 from dotenv import load_dotenv
-from pydantic import BaseModel
-from typing import List
 import snowflake.connector
 load_dotenv()
 
